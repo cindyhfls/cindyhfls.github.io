@@ -5,7 +5,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - MATLAB_BrainParcelVisualizationFunctions
-  - Tu-2024-DIAN-HubDisruption-FC
-  - Tu-2024-AreaParcellationInfants 
-  - Infomap_MATLAB_wrapper 
+  - cindyhfls/MATLAB_BrainParcelVisualizationFunctions
+  - cindyhfls/Tu-2024-DIAN-HubDisruption-FC
+  - WheelockLab/Tu-2024-AreaParcellationInfants 
+  - cindyhfls/Infomap_MATLAB_wrapper 

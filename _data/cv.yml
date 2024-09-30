@@ -6,27 +6,28 @@
     - name: Date of Birth
       value: 3rd May 1996
     - name: Languages
-      value: English, Chinese
+      value: English (Professional working proficiency), Chinese (Native)
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D.
+    - title: Ph.D. Candidate in Neuroscience (GPA 3.83/4.00)
       institution: Washington University in St. Louis, St. Louis, Missouri, United States
-      year: 2025
+      year: 2019-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: B.A.(Hons)
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 2017
+        - Dissertation: Characterization of The Functional Modular Organization In The Developing Infant Brain Across Topological and Temporal Scales
+        - Advisor: Dr. Muriah Wheelock (co-advised with Dr. Adam Eggebrecht), Department of Radiology, Washington University in St. Louis
+        # - title: fMRI
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: B.A.(Hons) Natural Sciences
+      institution: University of Cambridge
+      year: 2014-2017
       description:
-        - Description 1.
-        - Description 2.
+        - Specialization in Physiology, Development and Neuroscience (Class 2.1)
+        - Dissertation: Understanding Drosophila Navigation Using Visual and Olfactory Cues
+          Advisor: Dr. Trevor Wardill, Department of Physiology, Development and Neuroscience, University of Cambridge, UK
 
 - title: Experience
   type: time_table
@@ -34,13 +35,13 @@
     - title: Ph.D. candidate
       institution: Washington University in St. Louis , St. Louis, Missouri, United States
       year: 2022 - Present
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
     - title: Assistant Instructor (Coding and Statistical Thinking in the Neurosciences L41 Bio5648)
       institution: Washington University in St. Louis , St. Louis, Missouri, United States
       year: 2021
@@ -102,20 +103,19 @@
     - year: 2015
       items:
         - G C Grindley Fund for Undergraduate Summer Research (£1200)
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

@@ -1,8 +1,7 @@
 github_users:
   - cindyhfls
-  - WheelockLab
 
-repo_description_lines_max: 2
+repo_description_lines_max: 0 # was 2
 
 github_repos:
   - cindyhfls/MATLAB_BrainParcelVisualizationFunctions

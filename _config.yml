@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: # the website title (if blank, full name will be used instead)
-first_name: Jiaxin Cindy
+first_name: "Jiaxin (Cindy)"
 middle_name:
-last_name: Tu
+last_name: "Tu"
 email: tu.j@wustl.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Neuroscience Ph.D. student studying human brain development with fMRI and network neuroscience methods

@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Jiaxin \(Cindy\) Tu # the website title (if blank, full name will be used instead)
 first_name: Jiaxin \(Cindy\)
 middle_name:
 last_name: Tu
@@ -243,13 +243,13 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
+  #_pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
   - vendor
   - _pages/teaching.md
-  - _pages/profiles.md
+  - _pages/people.md
 
 keep_files:
   - CNAME

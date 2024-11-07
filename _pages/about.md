@@ -33,7 +33,8 @@ During my rotation, I examined the difference in functional connectivity across 
 
 Before transitioning to neuroimaging and human brain mapping with functional connectivity, I contributed to several projects studying reward-based decision-making in non-human primates. I analyzed behavioral data and single-unit data collected using tungsten electrodes to study how single neurons encode reward-related variables. I also developed behavioral experiments for humans and non-human primates using MATLAB-based software including MonkeyLogic and PsychToolbox. I have also had some experience running behavioral experiments using humans, mice, rats, and Drosophila, and some familiarity with analyzing ECOG/two-photon Ca2+ imaging and DOT(fNIRS) data during my Ph.D. rotations and in undergraduate research.
 
-**Technical Skills:**| MATLAB (Advanced) | Python (Intermediate) | R (Intermediate) | Julia (Basic) | SQL (Basic) | SPSS (Basic) | Bash (Basic) | Git | Arduino | Linux | Keras/Tensorflow | Pytorch | Adobe Illustrator | Slurm | AWS | Google Cloud | Google Colab | Globus | NeuroDOT
+**Technical Skills:**| MATLAB | Python | R | Julia | SQL | SPSS | Bash | Git | Arduino | Linux | Keras/TensorFlow | Pytorch | Adobe Illustrator | Slurm | AWS | Google Cloud | Google Colab | Globus | NeuroDOT
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.

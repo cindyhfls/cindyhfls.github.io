@@ -23,7 +23,7 @@ I am a Ph.D. student in Neuroscience at Washington University in St Louis, St Lo
 
 My Ph.D. thesis is titled _"Characterization of The Functional Modular Organization In The Developing Infant Brain Across Topological and Temporal Scales"_ (_PI: Muriah D. Wheelock. Co-PI: Adam E. Eggebrecht_).
 
-Specifically, I examined the organization of brain areas with functional connectivity gradients (Gordon et al. 2016 Cerebral Cortex) and compared how well different adult and infant area parcellations fit the functional connectivity data in infants and children. [paper](https://www.biorxiv.org/content/10.1101/2024.09.09.612056v1.abstract)/[code](https://github.com/WheelockLab/Tu-2024-AreaParcellationInfants).
+Specifically, I examined the organization of brain areas with functional connectivity gradients (Gordon et al. 2016 Cerebral Cortex) and compared how well different adult and infant area parcellations fit the functional connectivity data in infants and children. [paper](https://www.biorxiv.org/content/10.1101/2024.09.09.612056v2)/[code](https://github.com/WheelockLab/Tu-2024-AreaParcellationInfants).
 
 Additionally, I found that while the infant functional network organizations had noticeable differences compared to adults (Kardan et al. 2022 DCN, Tu et al. 2024 bioRxiv), a subset of relatively stable areas displayed adult-like network organization in infant brains. [paper](https://www.biorxiv.org/content/10.1101/2024.07.31.606025v1)/[code](https://github.com/cindyhfls/Tu-2024-GordonSubset-DCN).
 

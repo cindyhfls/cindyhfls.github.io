@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student in Neuroscience at Washington University in St Louis, St Louis, MO. I am originally from Hangzhou, Zhejiang, China. After obtaining my Bachelor's in Natural Sciences from the University of Cambridge in the United Kingdom, I worked in a non-human primate neurophysiology lab at the University of Minnesota (_PI: Benjamin Y. Hayden_) as a research technician before coming to St. Louis. [(CV)](https://cindyhfls.github.io/cv/)
+I am a Postdoctoral Researcher at the Haxby Lab in the Department of Psychological and Brain Sciences at Dartmouth College working on aligning representations of different brains. I am originally from Hangzhou, Zhejiang, China. After obtaining my B.A. in Natural Sciences from the University of Cambridge in the United Kingdom, I worked in a non-human primate neurophysiology lab at the University of Minnesota (_PI: Benjamin Y. Hayden_) as a research technician, and then completed a Ph.D. in Neuroscience from Washington University in St Louis. [(CV)](https://cindyhfls.github.io/cv/)
 
 My Ph.D. thesis is titled _"Cortical Functional Organization in Early Childhood"_ (_PI: Muriah D. Wheelock. Co-PI: Adam E. Eggebrecht_).
 
